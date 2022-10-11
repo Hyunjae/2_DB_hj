@@ -6,3 +6,4 @@
 .dbeaver/data-sources.json
 *.json
 .project
+.DS_Store
